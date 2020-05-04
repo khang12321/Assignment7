@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Relocation Moving Truck Rental App</string>
+    <string name="txtTitle1">Moving Truck Rental</string>
+    <string name="txtTitle2">Moving Truck Rental</string>
+    <string name="txtTruckLength">Please Enter Truck Length</string>
+    <string name="txtCost">Total cost of a day with the miles is</string>
+    <string name="btnCompute">Compute Cost</string>
+    <string name="txtMiles">Please Enter Miles</string>
+    <string name="img">Opening Image</string>
+    <string name="imgOfTruckLength">Image Of Truck Length</string>
+</resources>
